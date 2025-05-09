@@ -77,6 +77,7 @@ const students = [
       { name: "Art", score: 95 }
     ]
   },
+  
   {
     name: "Bob",
     courses: [
